@@ -1,0 +1,17 @@
+{
+  "configurations": {
+    "<name>: Launch": {
+      "adapter": "debugpy",
+      "configuration": {
+        "name": "<name>: Launch",
+        "type": "python",
+        "request": "launch",
+        "cwd": "/home/richard/Projects/Python/Games/Hangman/",
+        "program": "/home/richard/Projects/Python/Games/Hangman/hangman.py",
+        "python": "/usr/sbin/python",
+        "console": "externalTerminal",
+        "stopOnEntry": true
+      }
+    }
+  }
+}
